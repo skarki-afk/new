@@ -7,4 +7,4 @@ Git can handle most merges on its own with automatic merging features. A conflic
     git checkout -b branchname 
 ```
 
-> note: 
+> note:  this is branch
