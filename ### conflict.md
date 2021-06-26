@@ -7,4 +7,12 @@ Git can handle most merges on its own with automatic merging features. A conflic
     git checkout -b branchname 
 ```
 
+<<<<<<< HEAD
 > note:  this is branch
+=======
+### delete
+```
+git branch -d branchname
+
+```
+>>>>>>> master
